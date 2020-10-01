@@ -3,10 +3,10 @@ Crypt ESP is a streamproof ESP Cheat for CSGO .Currently supports Windows and Li
 The cheat doesn't use detected hooking methods which makes it secure from VAC (Valve Anti Cheat).
 
 # Prerequisites
-> Windows
+# Windows
 Microsoft Visual Studio 2019 (preferably the latest version), platform toolset v142 and Windows 10 SDK are required in order to compile .
 
-> Linux
+# Linux
 - CMake 3.11.0+
 - gcc and g++ 9.3.0+
 - SDL2 library
