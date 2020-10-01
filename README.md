@@ -1,6 +1,6 @@
 # cryptesp
 Crypt ESP is a streamproof ESP Cheat for CSGO .Currently supports Windows and Linux.
-The cheat doesn't use detected hooking methods which makes it secure from VAC (Valve Anti Cheat).
+The cheat doesn't use any detected hooking methods which makes it secure from VAC (Valve Anti Cheat).
 
 # Prerequisites
 # Windows
