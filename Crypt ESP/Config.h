@@ -43,12 +43,12 @@ public:
         ImFont* big;
     };
 
-    std::unordered_map<std::string, Font> fonts;
 
     void scheduleFontLoad(std::size_t index) noexcept;
     bool loadScheduledFonts() noexcept;
     
     const auto& getSystemFonts() noexcept { return systemFonts; }
+    const auto& getFonts() noexcept { return fonts; }
 
 private:
     std::vector<std::size_t> scheduledFonts{ 0 };
